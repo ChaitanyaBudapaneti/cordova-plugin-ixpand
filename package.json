@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-ixpand",
+  "version": "0.0.1",
+  "description": "Native interface to iXpand SDK for Phonegap/cordova",
+  "cordova": {
+    "id": "cordova-plugin-ixpand",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChaitanyaBudapaneti/cordova-plugin-ixpand.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Chaitanya Budapaneti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChaitanyaBudapaneti/cordova-plugin-ixpand/issues"
+  },
+  "homepage": "https://github.com/ChaitanyaBudapaneti/cordova-plugin-ixpand#readme"
+}

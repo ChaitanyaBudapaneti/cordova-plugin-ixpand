@@ -20,7 +20,7 @@
             </feature>
         </config-file>
         
-        <framework src="iXpand-SDK-iOS/iXpandSDKlib.framework" />
+        <framework src="iXpand-SDK-iOS/iXpandSDKlib.framework" custom="true"  />
         <source-file src="src/ios/iXpand.m" />
 
     </platform>

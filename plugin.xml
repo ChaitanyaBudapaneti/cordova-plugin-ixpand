@@ -19,8 +19,9 @@
                 <param name="ios-package" value="iXpand" />
             </feature>
         </config-file>
-        <source-file src="src/ios/iXpand.m" />
+        
         <framework src="iXpand-SDK-iOS/iXpandSDKlib.framework" custom="true" type="projectReference" />
+        <source-file src="src/ios/iXpand.m" />
 
     </platform>
 </plugin>

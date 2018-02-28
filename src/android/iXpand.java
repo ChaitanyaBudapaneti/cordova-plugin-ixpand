@@ -1,4 +1,4 @@
-package cordova-plugin-ixpand;
+package com.plugin.ixpand;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
